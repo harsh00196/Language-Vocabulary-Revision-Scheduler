@@ -1,0 +1,11 @@
+# Compiled executable
+scheduler
+
+# macOS debug symbols
+scheduler.dSYM/
+
+# Object files
+*.o
+
+# VS Code
+.vscode/
