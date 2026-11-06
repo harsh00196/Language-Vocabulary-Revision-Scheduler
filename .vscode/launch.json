@@ -1,0 +1,15 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Run CA1 Scheduler",
+            "type": "lldb",
+            "request": "launch",
+            "program": "${workspaceFolder}/scheduler",
+            "args": [],
+            "cwd": "${workspaceFolder}",
+            "preLaunchTask": "Build CA1 Project",
+            "terminal": "integrated"
+        }
+    ]
+}
