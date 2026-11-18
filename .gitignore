@@ -1,0 +1,14 @@
+# Compiled executable
+scheduler
+
+# macOS files
+.DS_Store
+
+# Debug symbols
+*.dSYM/
+
+# Object files
+*.o
+
+# Runtime vocabulary data
+data/*.dat
